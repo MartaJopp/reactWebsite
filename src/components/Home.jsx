@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Linke } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import { Jumbotron, Grid, Row, Col, Image, Button } from 'react-bootstrap';
 import './Home.css';
 
